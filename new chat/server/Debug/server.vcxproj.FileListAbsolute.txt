@@ -1,0 +1,4 @@
+C:\Users\NINDYASAFF\Documents\chat nindya\server\Debug\server.exe
+C:\Users\NINDYASAFF\Documents\chat nindya\server\Debug\server.pdb
+C:\Users\NINDYASAFF\Documents\new chat\server\Debug\server.exe
+C:\Users\NINDYASAFF\Documents\new chat\server\Debug\server.pdb

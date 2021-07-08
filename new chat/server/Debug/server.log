@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\NINDYASAFF\Documents\new chat\server\Server.cpp(79,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NINDYASAFF\Documents\new chat\server\Server.cpp(124,25): warning C4018: '<': signed/unsigned mismatch
+  server.vcxproj -> C:\Users\NINDYASAFF\Documents\new chat\server\Debug\server.exe

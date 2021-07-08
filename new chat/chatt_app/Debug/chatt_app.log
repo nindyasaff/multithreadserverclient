@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\NINDYASAFF\Documents\new chat\chatt_app\Client.cpp(79,14): warning C4101: 'e': unreferenced local variable
+C:\Users\NINDYASAFF\Documents\new chat\chatt_app\Client.cpp(114,14): warning C4101: 'e': unreferenced local variable
+  chatt_app.vcxproj -> C:\Users\NINDYASAFF\Documents\new chat\chatt_app\Debug\chatt_app.exe
