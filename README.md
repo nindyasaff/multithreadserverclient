@@ -8,7 +8,7 @@ Multithreading TCP Socket Programming untuk windows dengan bahasa C++.
 <br> 4. Anda sudah bisa memulai chat melalui client
 
 # Flowchart
-![image](https://user-images.githubusercontent.com/63599760/124947034-b63ada00-e039-11eb-9d91-b8fa97a11671.png)
+![TCP_Multithread@1 25x (1)](https://user-images.githubusercontent.com/63599760/124943212-8211ea00-e036-11eb-803c-2fe725c8b86a.png)
 
 # Output
 ![output](https://user-images.githubusercontent.com/63599760/124950211-67db0a80-e03c-11eb-86fe-f05866f155b9.jpeg)
